@@ -7,7 +7,7 @@ This lab demonstrates how I used Splunk to analyze and visualize log data throug
 ## Dashboards
 
 ### Events Over Time by Level
-![Events Over Time](images/DB Events over time by level.png)  
+![Events Over Time by Level](images/DB Events over time by level.png)  
 *Shows how events change over time, categorized by severity level (Info, Warn, Error).*
 
 ### Event Counts by Service
