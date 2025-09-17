@@ -22,7 +22,9 @@ This lab demonstrates how I used **Splunk** to analyze and visualize log data th
 </p>
 - ♡ Aggregates events by severity level for a quick overview.
 
+
 ﹒⊹﹒﹒⊹﹒﹒⊹﹒﹒⊹﹒
+
 
 ## ﹒⟡﹒ Logs Analysis ﹒⟡﹒
 
