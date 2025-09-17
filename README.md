@@ -2,8 +2,6 @@
 
 This lab demonstrates how I used **Splunk** to analyze and visualize log data through dashboards and filtered queries.
 
-﹒⊹﹒﹒⊹﹒﹒⊹﹒﹒⊹﹒
-
 ## ﹒⟡﹒ Dashboards ﹒⟡﹒
 
 ### ⪩ Events Over Time by Level
